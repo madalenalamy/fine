@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <h1> Weather App </h1>
       <footer>
-        This project is open-sourced on {" "}
+        This project was coded by Madalena Lamy open-sourced on {" "}
         <a
           href="https://github.com/wecodeschool/react-weather-app"
           target="_blank"
