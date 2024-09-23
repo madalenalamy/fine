@@ -15,6 +15,7 @@ export default function App() {
           <a
             href="https://github.com/wecodeschool/react-weather-app"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub{" "}
           </a>
